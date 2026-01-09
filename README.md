@@ -1,9 +1,21 @@
 # HVAC-AI-Research
 
-**Project Overview**  
-This repository contains research and analysis conducted for a smart HVAC AI engine, developed in collaboration with GeoAlta. The work focuses on designing a conceptual AI solution for predictive, adaptive, and energy-efficient HVAC control. All content here is publicly shareable and does not disclose proprietary technical details.
+## 📋 Overview  
+This project involved research and analysis of AI approaches for HVAC systems, evaluating custom AI development versus existing edge AI frameworks. The research aimed to define a practical, scalable path to implement a responsive, energy-efficient, and intelligent smart hub while keeping data processing local to ensure privacy and security.
 
+Project Status:  ✅ Complete - Research | 🔒 Confidential
+> All content here is NDA-safe and suitable for portfolio/educational purposes.
 ---
+## 🎯 Business Case
+Many smart HVAC systems are reactive and require manual adjustments, which can lead to inefficiencies in comfort and energy use. The goal of this research was to explore AI-driven solutions that could enable predictive and adaptive control, optimizing user comfort while reducing energy consumption, without disclosing proprietary company details.
+
+## 🔬 Research Goals 
+* Explore the feasibility of custom HVAC-focused AI engines
+* Identify key AI components: pattern recognition, time-series prediction, adaptive control
+* Evaluate trade-offs: performance, complexity, scalability
+* Propose frameworks and hybrid approaches for rapid prototyping and eventual deployment
+* Assess business value: privacy, differentiation, and user adoption
+
 
 ## 📦 Key Deliverables 
 
