@@ -16,6 +16,18 @@ Many smart HVAC systems are reactive and require manual adjustments, which can l
 * Propose frameworks and hybrid approaches for rapid prototyping and eventual deployment
 * Assess business value: privacy, differentiation, and user adoption
 
+## Data & Technical Approach 
+* Collected and synthesized publicly available or simulated sensor data 
+* Evaluated AI modeling frameworks suitable for edge devices 
+* Outlined control algorithms and local processing strategies 
+* Ensured energy efficiency and comfort optimization through predictive models
+
+**🧩 AI Components (High-Level)**
+| Component | Purpose | Example Models | Learning/Update Method |
+|-----------|---------|----------------|------------------------|
+| Pattern Recognition | Identifying recurring ussage and comfort patterns | CNN, clustering | Online learning |
+| Time-Series Prediction | Forecast temperature, occupancy, energy usage | LSTM, ARIMA, Prophet | Periodic retraining |
+| Adaptive Control | Adjust HVAC behaviour dynamically | Reinforcement learning, MPC | Continous feedback |
 
 ## 📦 Key Deliverables 
 
